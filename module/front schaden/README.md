@@ -22,8 +22,8 @@ Der zweite Teil beschreibt die Tiefe des Schadens und wird auf 3 Binär Stellen 
 
 | Bits | 1ne Tiefe | 2 Tiefen | 3 Tiefen | 4 Tiefen | 5 Tiefen | 6 Tiefen | 7 Tiefen | 8 Tiefen |
 | ---- | --------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| 000  | Tiefe 1   | Tiefe 1  | Tiefe 1  | Tiefe 1  | Tiefe 1  | Tiefe 1  | Tiefe 1  | Tiefe 1  |
-| 001  | --------- | Tiefe 2  | Tiefe 3  | Tiefe 4  | Tiefe 5  | Tiefe 6  | Tiefe 7  | Tiefe 8  |
+| 000  | -------   | Tiefe 1  | Tiefe 1  | Tiefe 1  | Tiefe 1  | Tiefe 1  | Tiefe 1  | Tiefe 1  |
+| 001  | Tiefe 1   | Tiefe 2  | Tiefe 3  | Tiefe 4  | Tiefe 5  | Tiefe 6  | Tiefe 7  | Tiefe 8  |
 | 010  |           |          | -------  | Tiefe 2  | Tiefe 2  | Tiefe 3  | Tiefe 3  | Tiefe 3  |
 | 011  |           |          | Tiefe 2  | Tiefe 3  | Tiefe 4  | Tiefe 4  | Tiefe 5  | Tiefe 5  |
 | 100  |           |          |          |          | -------  | Tiefe 2  | Tiefe 2  | Tiefe 2  |
