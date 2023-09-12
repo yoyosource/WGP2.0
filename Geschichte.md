@@ -1,0 +1,1 @@
+Die Idee, WarGears miteinander zu verbinden, kam bereits 2014 mit dem WarGear V4 Blue Cat von Ourzo97 auf. Sein Ziel war damals, das V4 mit dem zukünftigen V5 zu koppeln, womit Verbündete stetig auch den Status des Alliierten WarGears einsehen können. 
